@@ -4,7 +4,7 @@
 - If you don't know how to add them, download the original raid0source from channelread0's GitHub. Then copy **ui.cc, ui.hh, autoclicker.cpp, and autoclicker.hpp** from there and paste them into this source.
 
 # required
-- Download cpr.lib using vcpkg. If you're not familiar with how to do that, ask ChatGPT.
+- Download cpr.lib, curl.lib using vcpkg. If you're not familiar with how to do that, ask ChatGPT.
   
 - Download [DirectX SDK June (2010)](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
   
