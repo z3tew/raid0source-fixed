@@ -13,5 +13,5 @@
 # injector
 - I couldn’t fix the injector source code, so you'll have to fix it yourself.
 
-# contcat
+# contact
 - @pulsiveclicker on discord
